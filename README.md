@@ -29,4 +29,4 @@ The dataset included the target week, the first week of September, over several 
 * Tableau for mapping
 
 ## Communication
-In addition to the slides and visuals presented, this project will be embedded on my personal blog on Medium and on GitHub.
+In addition to the slides and visuals presented, this project will be embedded on [my personal blog](#https://medium.com/@leahnagy) on Medium and on GitHub.
