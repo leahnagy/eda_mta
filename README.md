@@ -1,10 +1,11 @@
-# eda_mta
-MTA Turnstile Project 
-
 # Exploratory Data Analysis Project
 
 ## Marketing Campaign Predictions Using the MTA Turnstiles Dataset
 By: Leah Nagy
+
+### Table of Contents:
+1. [PDF Slides](https://github.com/leahnagy/eda_mta/blob/main/MTA%20Traffic%20Exploratory%20Data%20Analysis.pdf)
+2. [Python Code](https://github.com/leahnagy/eda_mta/blob/main/code_mta_eda.ipynb)
 
 ## Abstract
 Namaste Home, a yoga & meditation streaming app, is launching a new app just for college students – Namaste Campus. They would like to display an in-person demonstration of the app in busy New York City MTA subway stations near college campuses during the first week of September. The goal of this project was to find the best days/times and stations to host the demonstrations. After finding stations close to major colleges and universities, I analyzed the data to determine the best options for the campaign team and displayed those results in the PDF slide presentation.
