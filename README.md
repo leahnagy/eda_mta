@@ -36,7 +36,3 @@ The data analysis process involved the following steps:
 -   NumPy and Pandas for data manipulation and analysis
 -   Matplotlib for data visualization
 -   Tableau for geographical representation
-
-## Dissemination
-
-Findings from this project, along with relevant visuals, are shared on my [**Medium blog**](https://medium.com/@leahnagy) and on [**GitHub**](https://github.com/leahnagy). The Slide Presentation included in the Contents above provides a succinct overview of the project's key insights.
